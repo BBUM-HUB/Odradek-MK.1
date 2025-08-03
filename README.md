@@ -33,6 +33,7 @@
 우리는 이제 더 이상 한계에 갇히지 않는다. **오드라덱이 우리를 대신해 한계를 제거하기 때문이다.**
 
 • **관련자료**
+
 <img width="250" height="238" alt="250" src="https://github.com/user-attachments/assets/01b2a2a8-55a1-4b6a-a78c-93c1e577c605" />
 
 <img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/8e12c7ea-9421-4872-aff4-87ef4ac12e36" />
